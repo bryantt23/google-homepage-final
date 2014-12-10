@@ -6,70 +6,44 @@ form{
 	margin:0 auto;
 }
 
-/*
-li {
+
+li {float: right;
     display: inline;
-    float: right;
 }
 
-topbar{
-//  display: inline-block;
 
-  line-height: 40px;
-    display: inline;
-    float: right;
+
+.button {
+	background-color: #f1f1f1;
+	font: bold 11px/27px Arial,sans-serif!important;
+	border: 1px solid #dcdcdc;
+	border-radius: 4px;
+	padding: 3px 6px 3px 6px;
+	margin: 5px;
+	display: inline-block;
 }
-*/
 
-#topbar ul li:first-child {
-	margin-top: -10px;
-}
 
-#topbar {
-	margin: 25px 40px 0 0;
+
+
+
+
+topbar {
+	float:right;
+	margin: 25px 40px 40px 0;
 	height: 100px;
 }
-
-
 
 
 #googlelogo {
 	margin: 10 0 0 0 auto;
 //	margin: auto;
-    float: right;
+  //  float: center;
 	text-align: center;
+	padding-top: 100px;
 //	width: 35em;
 }
 
-
-/*
-
-footer {
-  background: #f2f2f2;
-  border-top: 1px solid #e4e4e4;
-  line-height: 40px;
-  min-width: 100%;
-  bottom: 0;
-  position: absolute;
-  a {
-    margin-right: 15px;
-  }
-  ul{
-    padding: 0 0 0 20px;
-  }
-
-  .footer-left {
-    float: left;
-    margin: 0;
-  }
-
-  .footer-right {
-    float: right;
-    margin: 0;
-    margin-right: 20px;
-  }
-}
-*/
 
 
 #bottombar {
