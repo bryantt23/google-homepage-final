@@ -30,6 +30,18 @@ topbar{
 	height: 100px;
 }
 
+
+
+
+#googlelogo {
+	margin: 10 0 0 0 auto;
+//	margin: auto;
+    float: right;
+	text-align: center;
+//	width: 35em;
+}
+
+
 /*
 
 footer {
